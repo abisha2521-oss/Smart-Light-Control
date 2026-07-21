@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Smart Light Control Banner" width="100%">
+  <img src="banner.html" alt="Smart Light Control Banner" width="100%">
 </p>
 
 # 💡 Smart Light Control
@@ -44,7 +44,7 @@ This project demonstrates the basics of Android app development using Jetpack Co
 ## 📸 Application Preview
 
 <p align="center">
-  <img src="screenshots/app.png" width="250">
+  <img src="screenshotapp.png.png" width="250">
 </p>
 
 ---
