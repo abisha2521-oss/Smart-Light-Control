@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.html" alt="Smart Light Control Banner" width="100%">
+  <img src="banner.png.png" alt="Smart Light Control Banner" width="100%">
 </p>
 
 # 💡 Smart Light Control
